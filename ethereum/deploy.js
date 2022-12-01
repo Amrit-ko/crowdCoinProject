@@ -2,7 +2,7 @@ const HDWalletProvider = require('@truffle/hdwallet-provider');
 const Web3 = require('web3');
 const compiledFactory = require('./build/CampaignFactory.json');
 const provider = new HDWalletProvider(
-  'smart size prepare yellow enact flight weekend picnic surprise casual fly riot',
+  'secret frase from your metamask',
   // remember to change this to your own phrase!
   'https://goerli.infura.io/v3/6746793805a74b459580352c4522e043'
   // remember to change this to your own endpoint!
